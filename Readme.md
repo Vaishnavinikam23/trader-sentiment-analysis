@@ -104,13 +104,17 @@ Trader_Sentiment_Analysis.ipynb
 
 Run all cells sequentially.
 
-Project Structure
+Project Structure :
+
 Trader_Sentiment_Analysis
+
  -Trader_Sentiment_Analysis.ipynb
+ 
  -README.md
 
 Conclusion
 
 Market sentiment does not significantly change trading accuracy but strongly affects risk distribution and trader behavior.
 Filtering trader participation and controlling exposure based on sentiment regime improves risk-adjusted performance.
+
 
